@@ -37,7 +37,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
    Store, because its easy for me to visually compartmentalize state, and hydrate componenets accordingly. Also, I dont see the harm is over using this method, other than being restricted by standard operating proceedures.
    You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
-## Instructions
+## IIInstructions
 
 ### Task 1: Project Set Up
 
