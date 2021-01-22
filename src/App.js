@@ -7,12 +7,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
 
 class App extends Component {
-  
   render() {
     return (
       <div className="App">
         <nav className="navbar navbar-dark bg-primary">
-          <a className="navbar-brand">Smurf Village Database</a>
+          <a className="navbar-brand">Smurf Land</a>
         </nav>
         <main>
           <AddForm/>
@@ -24,6 +23,3 @@ class App extends Component {
 }
 
 export default App;
-
-//Task List:
-//1. Add in SmurfDisplay and AddForm into your application.
